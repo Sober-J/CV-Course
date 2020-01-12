@@ -1,0 +1,39 @@
+TensorFlow version 1.13.1
+
+Extracting ../dataset/train-images-idx3-ubyte.gz
+Extracting ../dataset/train-labels-idx1-ubyte.gz
+Extracting ../dataset/t10k-images-idx3-ubyte.gz
+Extracting ../dataset/t10k-labels-idx1-ubyte.gz
+
+Image shape: (28, 28, 1)
+
+Training set length: 55000
+Validation set length: 5000
+Test set length: 10000
+
+Image shape padded: (32, 32, 1)
+Start training
+
+0 0.9658
+1 0.9794
+2 0.982
+3 0.9832
+4 0.986
+5 0.9872
+6 0.9886
+7 0.9872
+8 0.9882
+9 0.9896
+10 0.9858
+11 0.9856
+12 0.9912
+13 0.9888
+14 0.9874
+15 0.9862
+16 0.9876
+17 0.9884
+18 0.9888
+19 0.9894
+Finish training
+
+Accuracy with 10000 test data = 0.991
